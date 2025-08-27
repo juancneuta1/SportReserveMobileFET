@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276647878980",
+    "project_id": "jucanet-sportreserve-202-a9ebf",
+    "storage_bucket": "jucanet-sportreserve-202-a9ebf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276647878980:android:c9cb665e3ae65fe7bcb711",
+        "android_client_info": {
+          "package_name": "com.example.sportreserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1q0hPb8Z5q0Crbvz0G91rWeoMMoZjNuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276647878980:android:431950f77a2c3d19bcb711",
+        "android_client_info": {
+          "package_name": "com.example.sportreserve_2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1q0hPb8Z5q0Crbvz0G91rWeoMMoZjNuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

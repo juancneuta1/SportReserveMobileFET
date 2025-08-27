@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "jucanet-sportreserve-202-a9ebf",
+          "appId": "1:276647878980:android:431950f77a2c3d19bcb711",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "jucanet-sportreserve-202-a9ebf",
+          "configurations": {
+            "android": "1:276647878980:android:431950f77a2c3d19bcb711",
+            "ios": "1:276647878980:ios:ef752f4e2f46bf8abcb711",
+            "macos": "1:276647878980:ios:ef752f4e2f46bf8abcb711",
+            "web": "1:276647878980:web:53b1176fa993d59fbcb711",
+            "windows": "1:276647878980:web:62293ddd005e5841bcb711"
+          }
+        }
+      }
+    }
+  }
+}
